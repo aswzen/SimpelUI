@@ -1,0 +1,25 @@
+{
+  "name": "SimpelUI",
+  "authors": [
+    "Agus Sigit Wisnubroto <aswzen@gmail.com>"
+  ],
+  "description": "Simpel a simple UI",
+  "main": "index.html",
+  "keywords": [
+    "UI",
+    "CSS",
+    "UI"
+  ],
+  "license": "MIT",
+  "homepage": "asw.web.id",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
