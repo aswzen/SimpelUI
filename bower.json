@@ -1,5 +1,5 @@
 {
-  "name": "SimpelUI",
+  "name": "simpeluI",
   "authors": [
     "Agus Sigit Wisnubroto <aswzen@gmail.com>"
   ],
@@ -20,6 +20,7 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.4.1",
+    "reset-css": "^4.0.1"
   }
 }
